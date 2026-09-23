@@ -1,6 +1,6 @@
 # dsh-office-preview
 
-**English** · [中文](#中文说明)
+[English](#dsh-office-preview) · [中文](#中文说明)
 
 Word (`.docx`) and Excel (`.xlsx`) previews for the DeepSeek Harness sidebar document pane — read-only, no Office installation, no network.
 
@@ -85,11 +85,11 @@ MIT
 
 ---
 
-# dsh-office-preview（中文说明）
+# 中文说明
 
-**中文** · [English](#dsh-office-preview)
+[English](#dsh-office-preview) · [中文](#中文说明)
 
-DeepSeek Harness 右侧栏文档面板的 Word（`.docx`）与 Excel（`.xlsx`）预览插件 —— 只读、不依赖 Office、不联网。
+**dsh-office-preview** —— DeepSeek Harness 右侧栏文档面板的 Word（`.docx`）与 Excel（`.xlsx`）预览插件：只读、不依赖 Office、不联网。
 
 没有这个插件时，在右侧栏点开 `.docx` / `.xlsx` 会落到纯文本渲染器，显示「非文本文件，暂时无法预览」。
 
