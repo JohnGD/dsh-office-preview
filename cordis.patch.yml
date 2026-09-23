@@ -1,0 +1,7 @@
+# dsh-office-preview bundle patch: mount the host plugin under its package name,
+# resolved through the profile's node_modules. The host half contributes nothing
+# to the tree; every visible behaviour lives in the browser export.
+
+- insert:
+    - id: dsh-office-preview
+      name: dsh-office-preview

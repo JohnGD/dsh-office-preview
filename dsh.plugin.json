@@ -1,0 +1,13 @@
+{
+  "id": "dsh-office-preview",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "description": "Word (.docx) and Excel (.xlsx) previews for the Harness sidebar document pane.",
+  "engines": {
+    "dsh": ">=0.1.0-rc.6"
+  },
+  "contributes": {
+    "tools": [],
+    "skills": []
+  }
+}
